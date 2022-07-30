@@ -23,11 +23,7 @@ To run the code, either to train or check trained agent, clone the repository an
 pip install -r requirements.txt
 ```
 
-or
-
-```bash
-conda install --file requirements.txt
-```
+Python 3.6 is needed for some of the packages
 
 Then download the unity enviorment from the link below and unzip it in into the cloned repository.
 
